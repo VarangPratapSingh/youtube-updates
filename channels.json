@@ -1,12 +1,36 @@
 {
   "channels": [
     {
-      "id": "YOUR_CHANNEL_ID",
-      "group": "hindi"
+      "id": "UCMvtOsZ7TNlnYR4ELkYS93g",
+      "group": "english"
     },
     {
-      "id": "YOUR_SECOND_CHANNEL_ID",
+      "id": "UCUZks0tPvD_ZbNwtBzyR_JQ",
       "group": "english"
+    },
+    {
+      "id": "UCeeFfhMcJa1kjtfZAGskOCA",
+      "group": "english"
+    },
+    {
+      "id": "UCBJycsmduvYEL83R_U4JriQ",
+      "group": "english"
+    },
+    {
+      "id": "UCVYamHliCI9rw1tHR1xbkfw",
+      "group": "english"
+    },
+    {
+      "id": "UCMiJRAwDNSNzuYeN2uWa0pA",
+      "group": "english"
+    },
+    {
+      "id": "UCY1kMZp36IQSyNx_9h4mpCg",
+      "group": "english"
+    },
+    {
+      "id": "UCqwUrj10mAEsqezcItqvwEw",
+      "group": "hindi"
     }
   ]
 }
